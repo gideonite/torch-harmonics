@@ -64,7 +64,7 @@ Build in your environment using the Python package:
 
 ```
 git clone git@github.com:NVIDIA/torch-harmonics.git
-pip install ./torch_harmonics
+pip install ./torch-harmonics
 ```
 
 Alternatively, use the Dockerfile to build your custom container after cloning:
